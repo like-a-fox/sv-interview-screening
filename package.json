@@ -1,0 +1,19 @@
+{
+  "name": "sv-interview-screening",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/like-a-fox/sv-interview-screening.git"
+  },
+  "author": "@like-a-fox <Derek Musser>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/like-a-fox/sv-interview-screening/issues"
+  },
+  "homepage": "https://github.com/like-a-fox/sv-interview-screening#readme"
+}
