@@ -102,5 +102,5 @@ const colors = {
 
 ## Authors
 
-- **Derek Musser** - [Like A Fox](https://github.com/like-a-fox)
-- **David Lovet** - [Like A Fox](https://github.com/logiccosmic)
+- **Derek Musser** - [@like-a-fox](https://github.com/like-a-fox)
+- **David Lovet** - [@logiccosmic](https://github.com/logiccosmic)
